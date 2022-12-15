@@ -1,6 +1,6 @@
 # README
 
-1. Practicando GIT Commit!
+1. Practicando GIT Commit! Estoy en VSCode y Udemy!
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
