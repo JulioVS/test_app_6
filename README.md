@@ -1,6 +1,7 @@
 # README
 
 1. Practicando GIT Commit! Estoy en VSCode y Udemy!
+2. First Test repo on the Complete Ruby on Rails Developer course
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
